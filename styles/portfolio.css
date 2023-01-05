@@ -2,6 +2,12 @@
     margin:0;
     font-family: 'Open Sans', sans-serif;
 }
+.header{
+    background: #fff8f3;
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
 .text-primary{
     color: #fd6e0a;
 }
@@ -52,6 +58,27 @@ nav li{
 }
 .banner-description{
     color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* About section styles */
+.about{
+    margin-top: 130px;
+    background-color:#fff8f3 ;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.banner-description{
+    color:#757575 ;
     font-size: 18px;
     margin-bottom: 30px;
 }
