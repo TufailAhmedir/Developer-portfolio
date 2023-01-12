@@ -162,33 +162,3 @@ main{
 .resume-button{
     text-align: center;
 }
-/* footer section styles starts */
-.footer{
-    margin-top:50px;
-    margin-bottom: 20px;
-    display: flex;
-    gap: 40px;
-    width: 80%;
-    /* margin:auto; */
-}
-.footer-menu{
-    padding-left: 140px;
-    
-}
-.footer-subscribe{
-    
-}
-.footer-input{
-    margin: 5px;
-    border: 1px solid rebeccapurple;
-    border-radius: 5px;
-    font-size: 20px;
-}
-textarea,submit{
-    margin: 5px;
-    border: 1px solid rebeccapurple;
-    border-radius: 5px;
-    font-size: 20px;
-    
-}
-/* footer section styles ends */
